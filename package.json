@@ -1,0 +1,27 @@
+{
+  "name": "mumbleUI",
+  "version": "1.0.0",
+  "description": "多page工程",
+  "author": "wanchun",
+  "private": false,
+  "keywords": [
+    "component",
+    "vue"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanchun/mumbleUI.git"
+  },
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack"
+  },
+  "dependencies": {
+    "vue": "^1.0.21",
+    "vue-router": "^0.7.13"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^2.24.0",
+    "webpack": "^1.13.2"
+  }
+}
